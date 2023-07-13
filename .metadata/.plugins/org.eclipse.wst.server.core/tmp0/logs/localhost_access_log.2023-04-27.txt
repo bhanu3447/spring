@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:03 +0530] "GET /ums HTTP/1.1" 302 -
+127.0.0.1 - - [27/Apr/2023:15:23:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:03 +0530] "GET /ums/ HTTP/1.1" 200 819
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:03 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:03 +0530] "GET /ums/register.jsp HTTP/1.1" 200 819
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:09 +0530] "GET /ums/saveUserDetails?firstName=Daddolu+Bhanu+Prakash&contactNumber=08639343784&email=BhanuPrakashDaddolu%40gmai.com&password=3447&country=India HTTP/1.1" 200 69
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:52 +0530] "GET /ums HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:23:52 +0530] "GET /ums/ HTTP/1.1" 200 819
+0:0:0:0:0:0:0:1 - - [27/Apr/2023:15:24:04 +0530] "GET /ums/index.jsp HTTP/1.1" 200 87

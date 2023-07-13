@@ -1,0 +1,11 @@
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class App 
+{
+public static void main(String[] args) 
+{
+	AnnotationConfigApplicationContext acap = new AnnotationConfigApplicationContext();
+	acap.register(class);
+	acap.refresh();
+}
+}

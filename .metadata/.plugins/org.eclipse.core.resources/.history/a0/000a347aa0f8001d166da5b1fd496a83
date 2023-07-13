@@ -1,0 +1,9 @@
+package com.bhanu.dummy1.entity;
+
+import org.springframework.beans.factory.annotation.Qualifier;
+
+@Qualifier("Bike")
+public class Bike  implements Vehicle
+{
+
+}
